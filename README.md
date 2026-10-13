@@ -19,7 +19,7 @@ For the past year I've been writing code together with Claude Code agents: I bre
 
 | Game | About |
 |---|---|
-| [**Grow a Garden**](https://github.com/Primeer/Grow-a-Garden-unity) · [Play on Yandex Games](https://yandex.ru/games/app/458922) | Multiplayer farming sim I built and shipped solo. Planting, harvesting, shop, inventory, saves with migrations. Unity 6, URP, Photon PUN 2, VContainer, R3, UniTask, LitMotion. |
+| [**Grow a Garden**](https://yandex.ru/games/app/458922) · Yandex Games | Multiplayer farming sim I built and shipped solo. Planting, harvesting, shop, inventory, saves with migrations. Unity 6, URP, Photon PUN 2, VContainer, R3, UniTask, LitMotion. |
 | [**Disco Planets**](https://github.com/Primeer/Disco-Planets) | Hyper-casual 2D planet-merging game, shipped as a web game. UI Toolkit, VContainer, UniTask, DOTween. |
 | **FantasyLife** (Yandex Games) | Text-based life sim. Started in Unity, moved to TypeScript + React + Capacitor for one web + mobile codebase. Built with AI agents with no prior web experience. |
 
