@@ -1,19 +1,19 @@
 # Hi, I'm Aleksandr Esipov 👋
 
-**Unity / C# game developer
+**Unity / C# game developer · 6+ years in game dev**
 
-I build games in Unity. I've worked on a mobile 5v5 PvP arena, a live mobile RTS, F2P visual novels, hyper-casual and web games, from first prototype to release and live ops. Gameplay and networked features (Photon Fusion / PUN 2), bot AI, UI architecture (MVP), Addressables and performance work. I've also led a team and mentored developers along the way.
+I build games in Unity. I've worked on a mobile 5v5 PvP arena, a live mobile RTS, F2P visual novels, hyper-casual and web games, from first prototype to release and live ops. Gameplay and networked features (Photon Fusion / PUN 2), bot AI on NodeCanvas behaviour trees, UI architecture (MVP), Addressables and performance work. I've also led a team and mentored developers along the way.
 
-I've made the team's tools better too: below are a couple of open-source utilities for working with NodeCanvas graphs.
+I like making the team's tools better too: below are a couple of open-source utilities for working with NodeCanvas graphs.
 
 ## 🎮 Games
 
 | Game | About |
 |---|---|
-| [**War Legends**](https://play.google.com/store/apps/details?id=com.geargames.warlegends.rts.strategy.game) · Gear Games | Live mobile RTS. Built a UI pipeline on MVP, premium subscription, moved the in-game shop to Addressables and added background bundle loading. Acted as team lead and mentored a junior to mid level. |
-| [**Grow a Garden**](https://yandex.ru/games/app/458922) · Yandex Games | Multiplayer farming sim I built and shipped solo. Planting, harvesting, shop, inventory, saves with migrations. Unity 6, URP, Photon PUN 2, VContainer, R3, UniTask, LitMotion. |
-| [**Novels: Choose your story**](https://play.google.com/store/apps/details?id=com.interactive.novella) · Ayist Games | F2P visual novels. Lead technical designer: bundle and memory optimisation, content automation tools, a team of 4. |
-| [**Disco Planets**](https://github.com/Primeer/Disco-Planets) | Hyper-casual 2D planet-merging game, shipped as a web game. UI Toolkit, VContainer, UniTask, DOTween. |
+| [**War Legends**](https://play.google.com/store/apps/details?id=com.geargames.warlegends.rts.strategy.game) · Gear Games | Live mobile RTS. |
+| [**Grow a Garden**](https://yandex.ru/games/app/458922) · Yandex Games | Multiplayer farming sim: plant, grow and sell crops, expand your garden. |
+| **Novels: Choose your story** · Ayist Games | F2P interactive visual novels. |
+| [**Disco Planets**](https://github.com/Primeer/Disco-Planets) | Hyper-casual 2D planet-merging web game. |
 
 ## 🛠 Open-source tools
 
