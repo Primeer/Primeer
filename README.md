@@ -1,6 +1,6 @@
 # Hi, I'm Aleksandr Esipov 👋
 
-**Unity / C# game developer
+Unity / C# game developer
 
 I build games in Unity. I've worked on a mobile 5v5 PvP arena, a live mobile RTS, F2P visual novels, hyper-casual and web games, from first prototype to release and live ops. Gameplay and networked features (Photon Fusion / PUN 2), bot AI, UI architecture (MVP), Addressables and performance work. I've also led a team and mentored developers along the way.
 
