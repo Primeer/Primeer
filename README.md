@@ -10,9 +10,9 @@ I've made the team's tools better too: below are a couple of open-source utiliti
 
 | Game | About |
 |---|---|
-| [**War Legends**](https://play.google.com/store/apps/details?id=com.geargames.warlegends.rts.strategy.game) · Gear Games | Live mobile RTS. |
-| [**Grow a Garden**](https://yandex.ru/games/app/458922) · Yandex Games | Multiplayer farming sim: plant, grow and sell crops, expand your garden. |
-| **Novels: Choose your story** · Ayist Games | F2P interactive visual novels. |
+| [**War Legends**](https://play.google.com/store/apps/details?id=com.geargames.warlegends.rts.strategy.game) | Live mobile RTS. |
+| [**Grow a Garden**](https://yandex.ru/games/app/458922) | Multiplayer farming sim: plant, grow and sell crops, expand your garden. |
+| **Novels: Choose your story** | F2P interactive visual novels. |
 | [**Disco Planets**](https://github.com/Primeer/Disco-Planets) | Hyper-casual 2D planet-merging web game. |
 
 ## 🛠 Open-source tools
