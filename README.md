@@ -6,15 +6,6 @@ I build games in Unity. I've worked on a mobile 5v5 PvP arena, a live mobile RTS
 
 I've made the team's tools better too: below are a couple of open-source utilities for working with NodeCanvas graphs.
 
-## 🎮 Games
-
-| Game | About |
-|---|---|
-| [**War Legends**](https://play.google.com/store/apps/details?id=com.geargames.warlegends.rts.strategy.game) | Live mobile RTS. |
-| [**Grow a Garden**](https://yandex.ru/games/app/458922) | Multiplayer farming sim: plant, grow and sell crops, expand your garden. |
-| **Novels: Choose your story** | F2P interactive visual novels. |
-| [**Disco Planets**](https://github.com/Primeer/Disco-Planets) | Hyper-casual 2D planet-merging web game. |
-
 ## 🛠 Open-source tools
 
 | Project | What it does |
